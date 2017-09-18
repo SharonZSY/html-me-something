@@ -1,0 +1,41 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    font-family: "ff-meta-web-pro", sans-serif;
+    text-rendering: optimizeLegibility;
+    font-size: 100%;
+    line-height: 26px;
+    background: #f6efe5;
+    background-size: 60%;
+    color: #0d2c40;
+}
+figure {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+p {
+    padding: 1.25em;
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+    border: 0;
+}
+
+footer {
+    text-align: center
+}
